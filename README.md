@@ -22,4 +22,4 @@ Image is from my open-source http://code.google.com/p/feitp-server/. It means th
 5. Monitor performance is the feedback of your application. Sometimes we write some monitor script by ourselves. But nagios http://en.wikipedia.org/wiki/Nagios is more powerful than we can do. We use it in almost monitor projects in shanghai Network. Also we start to use zabbix framework to finish our monitor job, because it can monitor everything http://www.zabbix.com/monitor_everything.php and easy to second develop to customize our needs in python.<br>
 ![image](https://raw.githubusercontent.com/wuqunfei/highPerformanceNetworkApp/master/map.png)<br><br>
 
-At last, I introduce something about myself. I am an IT engineer in Shanghai at Aclatel-Lucent Group China. More information at LinkedIn: http://de.linkedin.com/in/wuqunfei, Contact me: wu.qunfei@gmail.com <br><br>. Have a fun!
+At last, I introduce something about myself. I am an IT engineer in Shanghai at Aclatel-Lucent Group China. More information at LinkedIn: http://de.linkedin.com/in/wuqunfei, Contact me: wu.qunfei@gmail.com Have a fun!
