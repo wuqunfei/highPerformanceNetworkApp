@@ -2,9 +2,8 @@ highPerformanceNetworkApp
 =========================
 This project is not sourcecode, it is a way to design high performance network application from my 7 years experience in a big network company. <br>
 
+I will give the way step by step, you can try <br><br>
 
-This is my desktop in Shanghai Office, And I give the way step by step, you can try <br><br>
- ![image](https://raw.githubusercontent.com/wuqunfei/highPerformanceNetworkApp/master/myDesk.jpg)<br><br>
 Thinking in high perfermance network application<br>
  ![image](https://raw.githubusercontent.com/wuqunfei/highPerformanceNetworkApp/master/logic.png)<br><br>
  
